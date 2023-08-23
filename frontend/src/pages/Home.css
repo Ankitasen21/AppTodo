@@ -1,0 +1,16 @@
+.container{
+    position: relative;
+    top: 5rem;
+    font-family: 'DM Sans';
+}
+
+#input:active{
+    outline: none;
+    
+}
+
+
+#submit:hover{
+    color: rgb(221, 221, 221);
+    background-color: rgb(42, 45, 54);
+}

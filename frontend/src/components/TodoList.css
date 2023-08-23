@@ -1,0 +1,42 @@
+table {
+  text-align: center;
+  padding: 1rem;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.close {
+  border: transparent;
+  background-color: transparent;
+}
+
+#action {
+  background-color: transparent;
+  outline: none;
+  border-color: transparent;
+  color: #006d77;
+  font-size: 24px;
+}
+#edit {
+  background-color: transparent;
+  outline: none;
+  border-color: transparent;
+  color: #1d3557;
+  font-size: 24px;
+}
+#action-delete {
+  background-color: transparent;
+  outline: none;
+  border-color: transparent;
+  color: #e63946;
+  font-size: 24px;
+}
+.default {
+  text-align: center;
+  vertical-align: center;
+  margin: 7rem;
+  font-size: 32px;
+  color: #797f8883;
+}
